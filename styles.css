@@ -1,0 +1,120 @@
+body {
+  margin: 0px;
+  background-color: #e0f9f6;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  width: 30%;
+  margin: 0 auto 0 auto;
+  font-family: 'Caveat', cursive;
+  font-size: 312.5%;
+  color: #66BFBF;
+  line-height: 1;
+}
+
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.1rem;
+  font-weight: normal;
+  color : #66BFBF;
+  
+}
+
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #11999E;
+}
+
+p{
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.top {
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+  bottom: 300px;
+}
+
+.a{
+  color: #11999E;
+}
+
+
+.skill-row
+{
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 1;
+}
+
+.code_prfile{
+  height : 250px;
+ 
+}
+
+.skill_img1
+{
+ height : 150px;
+  margin-bottom: 10px;
+}
+
+.skill_img2
+{
+  height : 150px;
+ margin-bottom: 10px;
+}
+
+.bottom-container{
+   background-color: #66BFBF;
+   height: 100px;
+   line-height: 2;
+}
+
+.btn {
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  font-family: Arial;
+  color: #130a21;
+  font-size: 16px;
+  background: #66BFBF;
+  padding: 6px 14px 7px 14px;
+  text-decoration: none;
+  position: relative;
+  bottom: 20px;
+  line-height: 5;
+}
+
+.btn:hover {
+  text-decoration: none;
+}
+
+.footer-link{
+ color: #11999E;
+
+ display: inline-block;
+ text-decoration: none;
+ margin-right: 35px;
+ margin-left: 5px;
+ margin-top: 10px;
+ font-weight: bolder;
+  
+}
+
